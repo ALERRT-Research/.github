@@ -10,4 +10,4 @@ I'm sure we'll be adding alot more structure later on but this is good for now.
 ---
 ## Co-owners/maintainers:
 * Hunter Martaindale (great guy)
-* Peter Tanksley (the 3rd)
+* Peter (the 3rd) Tanksley
